@@ -181,6 +181,11 @@ Real-time input handling and rendering
 
 Collision detection and grid-based logic
 
+
+**OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/6da3fded-21e5-46de-9296-db778b6320fa)
+
 Object-oriented game architecture
 
 Basic game loop implementation
